@@ -1,7 +1,9 @@
 🎫 TicketFlow
+
 TicketFlow is a web-based ticket booking platform built with Django. It allows users to browse events, select seats, and book tickets online. Admins can manage events, venues, and bookings through a secure admin panel.
 
 📋 Features
+
 User authentication (Sign up, login, logout)
 
 Browse and search events
@@ -21,11 +23,12 @@ Tickets
 Users
 
 🛠️ Tech Stack
+
 Backend: Django (Python)
 
 Database: SQLite (default) / PostgreSQL (production recommended)
 
-Frontend: HTML, CSS, Bootstrap, JavaScript
+Frontend: React
 
 Other Tools: Git & GitHub for version control
 

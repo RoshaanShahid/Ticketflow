@@ -52,6 +52,7 @@ ticketflow/
 ├── manage.py
 └── README.md
 
+
 ⚙️ Installation
 Follow these steps to run the project locally:
 
@@ -86,7 +87,7 @@ python manage.py runserver
 🚀 Usage
 Open your browser and go to http://127.0.0.1:8000/.
 
-Login using your admin credentials at /admin.
+Log in using your admin credentials at /admin.
 
 Create events, venues, and tickets in the admin panel.
 
@@ -107,4 +108,5 @@ Docker (optional) for containerization
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
-Roshaan Shahid
+Your Name
+GitHub • LinkedIn
